@@ -68,7 +68,7 @@ I'm passionate about research and applying my skills to build meaningful project
 * 📄 **Energy-Efficient Protocols for IoT Devices**
     * *Description:* Designed and explored energy-efficient protocols (like LEACH, DEEC) and routing mechanisms for IoT Wireless Sensor Networks (WSNs) to enhance network lifetime and sustainability.
     * *Keywords:* IoT, WSN, Energy Efficiency, Clustering Algorithms, NS-3.
-    * *(Optional: Add a link to the paper or repository if public: `[View Paper/Repo](YOUR_LINK_HERE)`)*
+    * *(Optional: Add a link to the paper or repository if public: `https://github.com/SaketKr-45/Energy-Efficient-Protocols-for-IoT-Devic.git`)*
 
 * 📄 **AI-Enhanced Routing Algorithms for IoT-Driven Smart Transportation**
     * *Description:* Researched and analyzed AI-powered routing algorithms (ML, Deep Learning, Reinforcement Learning) for dynamic, real-time optimization in smart transportation systems to improve traffic flow and fuel efficiency.
