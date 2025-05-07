@@ -117,10 +117,8 @@ I'm passionate about research and applying my skills to build meaningful project
 ```
 [██████████] 100%
 ```
-<p align="center">
-  <img src="https://media.giphy.com/media/fBedY5Da2tXy15M90Y/giphy.gif" width="150" alt="Thumbs Up Sticker">
-</p>
 Thanks for your patience! 😄
+Enjoy the profile!!
 </details> </details> </details> </details> </details> ---
 
 ## 🛠️ Experience
@@ -163,10 +161,6 @@ Let's connect and collaborate!
 ---
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l41Yh1bfXGZ8O9B0A/giphy.gif" width="250" alt="Thanks for viewing my profile">
-</p>
 
 <p align="center">
   Have a great day! ✨
