@@ -147,12 +147,12 @@ Thanks for your patience! 😄
 Let's connect and collaborate!
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_PROFILE_URL_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/saket-kumar-050b27274" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/SaketKr-45" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="YOUR_LEETCODE_PROFILE_URL_HERE" target="_blank">
+  <a href="https://leetcode.com/u/SaketKr45/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="mailto:saketkumar0883@gmail.com">
