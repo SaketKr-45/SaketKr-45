@@ -82,7 +82,7 @@ I'm passionate about research and applying my skills to build meaningful project
 
 ---
 
-## ✨ Just a Little Fun Animation!
+## ✨ Just a Little Fun Activity!
 
 <details>
 <summary><strong>🤫 Click to see a secret message load...</strong></summary>
@@ -117,10 +117,7 @@ I'm passionate about research and applying my skills to build meaningful project
 ```
 [██████████] 100%
 ```
-<p align="center">
-  <img src="https://media.giphy.com/media/fBedY5Da2tXy15M90Y/giphy.gif" width="150" alt="Thumbs Up Sticker">
-</p>
-Thanks for your patience! 😄
+LOL! Sorry to waste your time! 😄
 </details> </details> </details> </details> </details> ---
 
 ## 🛠️ Experience
@@ -163,10 +160,6 @@ Let's connect and collaborate!
 ---
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/1qBkxz0kMlT3G/giphy.gif" width="250" alt="Thanks for viewing my profile">
-</p>
 
 <p align="center">
   Have a great day! ✨
