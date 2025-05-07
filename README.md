@@ -68,21 +68,21 @@ I'm passionate about research and applying my skills to build meaningful project
 * 📄 **Energy-Efficient Protocols for IoT Devices**
     * *Description:* Designed and explored energy-efficient protocols (like LEACH, DEEC) and routing mechanisms for IoT Wireless Sensor Networks (WSNs) to enhance network lifetime and sustainability.
     * *Keywords:* IoT, WSN, Energy Efficiency, Clustering Algorithms, NS-3.
-    * *(Optional: Add a link to the paper or repository if public: `https://github.com/SaketKr-45/Energy-Efficient-Protocols-for-IoT-Devic.git`)*
+    * *GitHub Repository:* [View Repo](https://github.com/SaketKr-45/Energy-Efficient-Protocols-for-IoT-Devic.git)
 
 * 📄 **AI-Enhanced Routing Algorithms for IoT-Driven Smart Transportation**
     * *Description:* Researched and analyzed AI-powered routing algorithms (ML, Deep Learning, Reinforcement Learning) for dynamic, real-time optimization in smart transportation systems to improve traffic flow and fuel efficiency.
     * *Keywords:* AI, Smart Transportation, IoT, Machine Learning, Routing Algorithms.
-    * *(Optional: Add a link to the paper or repository if public: `[View Paper/Repo](YOUR_LINK_HERE)`)*
+    * *GitHub Repository:* [View Repo](https://github.com/SaketKr-45/AI-Enhanced-Routing-Algorithms-for-IoT-Driven-Smart-Transportation.git)
 
 * 📄 **Energy Aware: Decentralised Aggregation Mechanisms in Federated Learning**
     * *Description:* Explored decentralized aggregation mechanisms in Federated Learning with a focus on energy efficiency, aiming to enhance privacy, scalability, and robustness by removing central server reliance.
     * *Keywords:* Federated Learning, Decentralized Systems, Energy Efficiency, Peer-to-Peer Learning, Gossip Protocols.
-    * *(Optional: Add a link to the paper or repository if public: `[View Paper/Repo](YOUR_LINK_HERE)`)*
+    * *GitHub Repository:* [View Repo](https://github.com/SaketKr-45/Energy-Aware-Decentralised-Aggregation-Mechanisms-in-Federated-Learning.git)
 
 ---
 
-## ✨ Just a Little Fun Activity!
+## ✨ Just a Little Fun Animation!
 
 <details>
 <summary><strong>🤫 Click to see a secret message load...</strong></summary>
@@ -117,7 +117,10 @@ I'm passionate about research and applying my skills to build meaningful project
 ```
 [██████████] 100%
 ```
-LOL! Sorry to waste your time! 😄
+<p align="center">
+  <img src="https://media.giphy.com/media/fBedY5Da2tXy15M90Y/giphy.gif" width="150" alt="Thumbs Up Sticker">
+</p>
+Thanks for your patience! 😄
 </details> </details> </details> </details> </details> ---
 
 ## 🛠️ Experience
@@ -160,6 +163,10 @@ Let's connect and collaborate!
 ---
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41Yh1bfXGZ8O9B0A/giphy.gif" width="250" alt="Thanks for viewing my profile">
+</p>
 
 <p align="center">
   Have a great day! ✨
