@@ -115,20 +115,4 @@ Let's connect and collaborate!
 
 ---
 
-## 📊 My GitHub Stats
-
-Showcasing some of my GitHub activity and language distribution.
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the URLs below with your actual GitHub username for these stats to work!)*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Saket's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&border_radius=10&langs_count=8" alt="Top Langs" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&border_radius=10" alt="GitHub Streak Stats"/>
-</p>
-
----
-
 Thanks for visiting my profile! Have a great day! ✨
