@@ -222,14 +222,12 @@ Showcasing some of my GitHub activity and language distribution.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&border_radius=10&hide_border=true&langs_count=8" alt="Top Langs" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&border_radius=10&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
 ---
 
-Thanks for visiting my profile! Have a great day! ✨
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Thanks.gif" width="200" alt="Animated Thanks Message">
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21gsI/giphy.gif" width="50" alt="Sparkle GIF">
+  Have a great day! ✨
 </p>
