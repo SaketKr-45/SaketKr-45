@@ -82,96 +82,46 @@ I'm passionate about research and applying my skills to build meaningful project
 
 ---
 
-## 🎮 Fun Zone: Tic-Tac-Toe (Markdown Edition!)
+## ✨ Just a Little Fun Animation!
 
 <details>
-<summary><strong>👇 Click to "Play" a Mini Tic-Tac-Toe Game!</strong></summary>
-
-*This is a simple, pre-scripted Tic-Tac-Toe game simulated using Markdown's collapsible sections. Click through the turns to see the game unfold! True interactivity isn't possible in pure Markdown, but this is a fun way to show a game.*
+<summary><strong>🤫 Click to see a secret message load...</strong></summary>
 
 <br>
 
-**Initial Board:**
+**Loading Profile...**
 ```
-   |   |  
----+---+---
-   |   |  
----+---+---
-   |   |  
+[          ] 0%
 ```
 
 <details>
-<summary><strong>Turn 1: Player X's move</strong> (Click to reveal)</summary>
+<summary><strong>Still loading...</strong> (Click to reveal next step)</summary>
 
-Player X places at **Center**.
-
-**Board:**
+**Loading Profile...**
 ```
-   |   |  
----+---+---
-   | X |  
----+---+---
-   |   |  
+[███       ] 30%
 ```
 
 <details>
-<summary><strong>Turn 2: Player O's move</strong> (Click to reveal)</summary>
+<summary><strong>Almost there...</strong> (Click to reveal next step)</summary>
 
-Player O places at **Top-Left**.
-
-**Board:**
+**Loading Profile...**
 ```
- O |   |  
----+---+---
-   | X |  
----+---+---
-   |   |  
+[██████    ] 60%
 ```
 
 <details>
-<summary><strong>Turn 3: Player X's move</strong> (Click to reveal)</summary>
+<summary><strong>And... Done!</strong> (Click to reveal final message)</summary>
 
-Player X places at **Top-Center**.
-
-**Board:**
+**Profile Loaded!**
 ```
- O | X |  
----+---+---
-   | X |  
----+---+---
-   |   |  
+[██████████] 100%
 ```
-
-<details>
-<summary><strong>Turn 4: Player O's move</strong> (Click to reveal)</summary>
-
-Player O places at **Bottom-Right**.
-
-**Board:**
-```
- O | X |  
----+---+---
-   | X |  
----+---+---
-   |   | O
-```
-
-<details>
-<summary><strong>Turn 5: Player X's move</strong> (Click to reveal X's winning move!)</summary>
-
-Player X places at **Bottom-Center**. 🥳 **X Wins!** 🎉
-
-**Board:**
-```
- O | X |  
----+---+---
-   | X |  
----+---+---
-   | X | O  <-- X's Winning Line!
-```
-<br>
-Game Over! Thanks for playing the Markdown version! 😄
-</details> </details> </details> </details> </details> </details> ---
+<p align="center">
+  <img src="https://media.giphy.com/media/fBedY5Da2tXy15M90Y/giphy.gif" width="150" alt="Thumbs Up Sticker">
+</p>
+Thanks for your patience! 😄
+</details> </details> </details> </details> </details> ---
 
 ## 🛠️ Experience
 
@@ -212,20 +162,10 @@ Let's connect and collaborate!
 
 ---
 
-## 📊 My GitHub Stats
-
-Showcasing some of my GitHub activity and language distribution.
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the URLs below with your actual GitHub username for these stats to work!)*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" alt="Saket's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&border_radius=10&hide_border=true&langs_count=8" alt="Top Langs" width="48%"/>
-</p>
-
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Thanks.gif" width="200" alt="Animated Thanks Message">
+  <img src="https://media.giphy.com/media/l41Yh1bfXGZ8O9B0A/giphy.gif" width="250" alt="Thanks for viewing my profile">
 </p>
 
 <p align="center">
