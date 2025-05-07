@@ -165,7 +165,7 @@ Let's connect and collaborate!
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41Yh1bfXGZ8O9B0A/giphy.gif" width="250" alt="Thanks for viewing my profile">
+  <img src="https://media.giphy.com/media/1qBkxz0kMlT3G/giphy.gif" width="250" alt="Thanks for viewing my profile">
 </p>
 
 <p align="center">
