@@ -1,10 +1,16 @@
-# Hi there 👋, I'm Saket Kumar!
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">, I'm Saket Kumar!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Passionate+B.Tech+CSE+Student;Cybersecurity+%26+AI%2FML+Enthusiast;IoT+%26+Distributed+Systems+Explorer;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
+  </a>
 </p>
 
-I'm a passionate B.Tech Computer Science student at **Kalinga Institute of Industrial Technology (KIIT)**, currently diving deep into the exciting worlds of **Cybersecurity, Artificial Intelligence/Machine Learning (AI/ML), Internet of Things (IoT), and Distributed Systems**. I love building innovative solutions, exploring cutting-edge technologies, and tackling challenging problems.
+I'm a B.Tech Computer Science student at **Kalinga Institute of Industrial Technology (KIIT)**, diving deep into **Cybersecurity, Artificial Intelligence/Machine Learning (AI/ML), Internet of Things (IoT), and Distributed Systems**. I love building innovative solutions and tackling challenging problems.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF">
+</p>
 
 ---
 
@@ -13,7 +19,7 @@ I'm a passionate B.Tech Computer Science student at **Kalinga Institute of Indus
 * 🎓 Pursuing my Bachelor of Technology in Computer Science & Engineering (2022-2026) with a current CGPA of **8.58**.
 * 💡 Fascinated by the potential of technology to solve complex real-world issues and drive positive change.
 * 🤝 Always eager to learn, collaborate on exciting projects, and contribute to the tech community.
-* 🛡️ Recently completed an internship at **Zscaler**, where I gained hands-on experience in cybersecurity, cloud security technologies, threat analysis, and zero-trust architecture.
+* 🛡️ Recently completed an internship at **Zscaler**, gaining hands-on experience in cybersecurity, cloud security, threat analysis, and zero-trust architecture.
 * 🌍 Based in Bhubaneswar, Odisha, India.
 
 ---
@@ -76,6 +82,97 @@ I'm passionate about research and applying my skills to build meaningful project
 
 ---
 
+## 🎮 Fun Zone: Tic-Tac-Toe (Markdown Edition!)
+
+<details>
+<summary><strong>👇 Click to "Play" a Mini Tic-Tac-Toe Game!</strong></summary>
+
+*This is a simple, pre-scripted Tic-Tac-Toe game simulated using Markdown's collapsible sections. Click through the turns to see the game unfold! True interactivity isn't possible in pure Markdown, but this is a fun way to show a game.*
+
+<br>
+
+**Initial Board:**
+```
+   |   |  
+---+---+---
+   |   |  
+---+---+---
+   |   |  
+```
+
+<details>
+<summary><strong>Turn 1: Player X's move</strong> (Click to reveal)</summary>
+
+Player X places at **Center**.
+
+**Board:**
+```
+   |   |  
+---+---+---
+   | X |  
+---+---+---
+   |   |  
+```
+
+<details>
+<summary><strong>Turn 2: Player O's move</strong> (Click to reveal)</summary>
+
+Player O places at **Top-Left**.
+
+**Board:**
+```
+ O |   |  
+---+---+---
+   | X |  
+---+---+---
+   |   |  
+```
+
+<details>
+<summary><strong>Turn 3: Player X's move</strong> (Click to reveal)</summary>
+
+Player X places at **Top-Center**.
+
+**Board:**
+```
+ O | X |  
+---+---+---
+   | X |  
+---+---+---
+   |   |  
+```
+
+<details>
+<summary><strong>Turn 4: Player O's move</strong> (Click to reveal)</summary>
+
+Player O places at **Bottom-Right**.
+
+**Board:**
+```
+ O | X |  
+---+---+---
+   | X |  
+---+---+---
+   |   | O
+```
+
+<details>
+<summary><strong>Turn 5: Player X's move</strong> (Click to reveal X's winning move!)</summary>
+
+Player X places at **Bottom-Center**. 🥳 **X Wins!** 🎉
+
+**Board:**
+```
+ O | X |  
+---+---+---
+   | X |  
+---+---+---
+   | X | O  <-- X's Winning Line!
+```
+<br>
+Game Over! Thanks for playing the Markdown version! 😄
+</details> </details> </details> </details> </details> </details> ---
+
 ## 🛠️ Experience
 
 **Intern - Cybersecurity @ Zscaler** (Virtual | Jan 2025 - Mar 2025)
@@ -115,4 +212,24 @@ Let's connect and collaborate!
 
 ---
 
+## 📊 My GitHub Stats
+
+Showcasing some of my GitHub activity and language distribution.
+*(Note: Replace `YOUR_GITHUB_USERNAME` in the URLs below with your actual GitHub username for these stats to work!)*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" alt="Saket's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&border_radius=10&hide_border=true&langs_count=8" alt="Top Langs" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&border_radius=10&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+---
+
 Thanks for visiting my profile! Have a great day! ✨
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21gsI/giphy.gif" width="50" alt="Sparkle GIF">
+</p>
