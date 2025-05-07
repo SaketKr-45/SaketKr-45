@@ -82,7 +82,7 @@ I'm passionate about research and applying my skills to build meaningful project
 
 ---
 
-## ✨ Just a Little Fun Animation!
+## ✨ Just a Little Fun!
 
 <details>
 <summary><strong>🤫 Click to see a secret message load...</strong></summary>
@@ -157,8 +157,6 @@ Let's connect and collaborate!
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
----
 
 ---
 
