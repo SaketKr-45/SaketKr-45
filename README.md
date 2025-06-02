@@ -16,7 +16,7 @@ I'm a B.Tech Computer Science student at **Kalinga Institute of Industrial Techn
 
 ## 🚀 About Me
 
-* 🎓 Pursuing my Bachelor of Technology in Computer Science & Engineering (2022-2026) with a current CGPA of **8.58**.
+* 🎓 Pursuing my Bachelor of Technology in Computer Science & Engineering (2022-2026) with a current CGPA of **8.72**.
 * 💡 Fascinated by the potential of technology to solve complex real-world issues and drive positive change.
 * 🤝 Always eager to learn, collaborate on exciting projects, and contribute to the tech community.
 * 🛡️ Recently completed an internship at **Zscaler**, gaining hands-on experience in cybersecurity, cloud security, threat analysis, and zero-trust architecture.
