@@ -1,111 +1,109 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Saket Kumar!</h1>
+<h1 align="center">Hey there! <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=I'm+Saket+Kumar+%F0%9F%91%8B;AI+%2F+ML+%7C+Cybersecurity+%7C+IoT+%F0%9F%9A%80;CSE+Undergrad+%7C+KIIT+University+%F0%9F%8E%93;Lifelong+Learner+%7C+Problem+Solver" alt="Typing SVG" /></h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Passionate+CSE+Undergrad+from+KIIT;Cybersecurity+%7C+AI%2FML+%7C+IoT+%7C+Distributed+Systems;Learning+%7C+Building+%7C+Solving+Real-World+Problems" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-- 🎓 B.Tech in **Computer Science & Engineering** (2022–2026) at **KIIT University**
-- 📊 Current CGPA: **8.72**
-- 🛡️ Former Intern @ **Zscaler** | Cybersecurity & Cloud Security  
-- 💡 Exploring AI/ML, Cybersecurity, IoT, and Distributed Systems  
-- 💬 I love working on impactful projects and solving real-world challenges
-- 📍 Based in Bhubaneswar, Odisha, India
+- 🎓 B.Tech CSE (2022–2026) @ KIIT University  
+- 📍 Bhubaneswar, India  
+- 🧠 Passionate about AI, ML, Cybersecurity, and Distributed Systems  
+- 🛡️ Cybersecurity Intern @ Zscaler  
+- 🧪 Always learning and building cool stuff  
+- 🔗 Fun fact: I automate before I repeat!
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Toolbox
 
-### 👨‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Web  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔍 Domains & Interests
+### 🔍 Domains  
 ![AI/ML](https://img.shields.io/badge/AI%2FML-F9A825?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00AEEF?style=for-the-badge&logo=hackthebox&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-7A9CC6?style=for-the-badge&logo=cisco&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-7A9CC6?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-007ACC?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
-## 📚 Computer Science Knowledge
+## 🚀 Projects
 
-- Data Structures & Algorithms (DSA)
-- Operating Systems (OS)
-- Computer Networks (CN)
-- Database Management Systems (DBMS)
-- Object-Oriented Programming (OOP)
-- Software Development Life Cycle (SDLC)
-- Computer Organization & Architecture
+### 📰 [Fake News Detection Using ML](https://github.com/SaketKr-45/Fake-News-Detection-ML)  
+→ Built with 6 ML models and TF-IDF  
+→ Achieved **91.6% accuracy** with Logistic Regression  
+→ Explored future enhancements with BERT and full-text analysis
 
----
+### 🌱 [Energy-Efficient IoT Protocols](https://github.com/SaketKr-45/Energy-Efficient-Protocols-for-IoT-Devic.git)  
+→ LEACH, DEEC & clustering in WSNs  
+→ Focus on energy efficiency using NS-3 simulation
 
-## 📂 Featured Projects
+### 🚦 [AI Smart Transportation Routing](https://github.com/SaketKr-45/AI-Enhanced-Routing-Algorithms-for-IoT-Driven-Smart-Transportation.git)  
+→ AI-based routing for traffic and energy optimization  
+→ Machine Learning + Reinforcement Learning combo
 
-### 📰 [Fake News Detection Using Machine Learning](https://github.com/SaketKr-45/Fake-News-Detection-ML)
-Classifies news as real or fake using TF-IDF and six machine learning models. Achieved **91.6% accuracy** with Logistic Regression and evaluated results using precision, recall, and F1-score.  
-**Keywords:** ML, NLP, TF-IDF, Logistic Regression, SVM
-
-### 🚗 [AI-Enhanced Routing Algorithms for Smart Transportation](https://github.com/SaketKr-45/AI-Enhanced-Routing-Algorithms-for-IoT-Driven-Smart-Transportation.git)  
-Analyzed and compared AI-powered routing strategies (ML, DL, RL) for smart transportation optimization.  
-**Keywords:** AI, IoT, Reinforcement Learning, Traffic Optimization
-
-### 🌱 [Energy-Efficient Protocols for IoT Devices](https://github.com/SaketKr-45/Energy-Efficient-Protocols-for-IoT-Devic.git)  
-Explored LEACH/DEEC-based routing protocols in Wireless Sensor Networks for energy optimization using NS-3.  
-**Keywords:** IoT, WSN, Energy Efficiency, NS-3
-
-### 🔐 [Energy-Aware Federated Learning (Decentralized)](https://github.com/SaketKr-45/Energy-Aware-Decentralised-Aggregation-Mechanisms-in-Federated-Learning.git)  
-Studied decentralized FL architectures with gossip protocols to enhance privacy and energy conservation.  
-**Keywords:** Federated Learning, P2P, Gossip, Decentralization
+### 🔐 [Decentralized Federated Learning](https://github.com/SaketKr-45/Energy-Aware-Decentralised-Aggregation-Mechanisms-in-Federated-Learning.git)  
+→ Explored gossip protocols & energy-aware FL  
+→ Focus on privacy, decentralization & robustness
 
 ---
 
-## 🏢 Experience
+## 🛠️ Experience
 
-### 🛡️ **Cybersecurity Intern @ Zscaler**  
-*Jan 2025 – Mar 2025 | Virtual*  
-- Worked on cloud security, threat modeling & vulnerability analysis  
-- Gained experience in zero-trust architecture and enterprise-grade firewalls  
-- Explored threat detection tools and security best practices
+**🔐 Cybersecurity Intern @ Zscaler**  
+*Jan 2025 – Mar 2025*  
+- Cloud & network security, vulnerability analysis  
+- Zero-trust architecture, threat detection  
+- Worked with enterprise-level firewall systems  
 
 ---
 
 ## 🎓 Education
 
-**🎓 Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar**  
-Bachelor of Technology (B.Tech) in Computer Science & Engineering  
-*2022 – 2026* | **CGPA:** 8.72
+**🎓 KIIT University, Bhubaneswar**  
+*B.Tech in Computer Science & Engineering (2022–2026)*  
+**CGPA:** 8.72  
 
 ---
 
-## 🌐 Connect with Me
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaketKr-45&show_icons=true&theme=radical" width="47%">
+  <img src="https://streak-stats.demolab.com?user=SaketKr-45&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="47%">
+</p>
+
+---
+
+## ✨ Let’s Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/saket-kumar-050b27274" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/SaketKr-45" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/SaketKr45/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:saketkumar0883@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/SaketKr45/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-<p align="center">Thanks for visiting! 🙌 Keep building, keep learning!</p>
+<details>
+<summary>💡 Secret Console</summary>
+
