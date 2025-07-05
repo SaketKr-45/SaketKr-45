@@ -1,165 +1,111 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">, I'm Saket Kumar!
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Saket Kumar!</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Passionate+B.Tech+CSE+Student;Cybersecurity+%26+AI%2FML+Enthusiast;IoT+%26+Distributed+Systems+Explorer;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Passionate+CSE+Undergrad+from+KIIT;Cybersecurity+%7C+AI%2FML+%7C+IoT+%7C+Distributed+Systems;Learning+%7C+Building+%7C+Solving+Real-World+Problems" alt="Typing SVG" />
   </a>
-</p>
-
-I'm a B.Tech Computer Science student at **Kalinga Institute of Industrial Technology (KIIT)**, diving deep into **Cybersecurity, Artificial Intelligence/Machine Learning (AI/ML), Internet of Things (IoT), and Distributed Systems**. I love building innovative solutions and tackling challenging problems.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Pursuing my Bachelor of Technology in Computer Science & Engineering (2022-2026) with a current CGPA of **8.72**.
-* 💡 Fascinated by the potential of technology to solve complex real-world issues and drive positive change.
-* 🤝 Always eager to learn, collaborate on exciting projects, and contribute to the tech community.
-* 🛡️ Recently completed an internship at **Zscaler**, gaining hands-on experience in cybersecurity, cloud security, threat analysis, and zero-trust architecture.
-* 🌍 Based in Bhubaneswar, Odisha, India.
+- 🎓 B.Tech in **Computer Science & Engineering** (2022–2026) at **KIIT University**
+- 📊 Current CGPA: **8.72**
+- 🛡️ Former Intern @ **Zscaler** | Cybersecurity & Cloud Security  
+- 💡 Exploring AI/ML, Cybersecurity, IoT, and Distributed Systems  
+- 💬 I love working on impactful projects and solving real-world challenges
+- 📍 Based in Bhubaneswar, Odisha, India
 
 ---
 
-## 💻 My Tech Stack
+## 🛠️ Tech Stack
 
-Here are some of the technologies and concepts I'm working with:
+### 👨‍💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Programming Languages:**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-</p>
+### 🌐 Web Technologies
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Web Technologies:**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-**Key Technologies & Concepts:**
-<p>
-  <img src="https://img.shields.io/badge/AI%2FML-F9A825?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
-  <img src="https://img.shields.io/badge/Distributed%20Systems-007ACC?style=for-the-badge&logo=gnome&logoColor=white" alt="Distributed Systems"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-00AEEF?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/IoT-557890?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT"/>
-</p>
-
-**Core CS Fundamentals:**
-* Data Structures & Algorithms (DSA)
-* Computer Networks
-* Operating Systems
-* Database Management Systems (DBMS)
-* Software Development Life Cycle (SDLC)
-* Object-Oriented Programming (OOP)
-* Computer Organization
+### 🔍 Domains & Interests
+![AI/ML](https://img.shields.io/badge/AI%2FML-F9A825?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00AEEF?style=for-the-badge&logo=hackthebox&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-7A9CC6?style=for-the-badge&logo=cisco&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-007ACC?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
-## 🔬 Projects & Research
+## 📚 Computer Science Knowledge
 
-I'm passionate about research and applying my skills to build meaningful projects. Here are a few highlights:
-
-* 📄 **Energy-Efficient Protocols for IoT Devices**
-    * *Description:* Designed and explored energy-efficient protocols (like LEACH, DEEC) and routing mechanisms for IoT Wireless Sensor Networks (WSNs) to enhance network lifetime and sustainability.
-    * *Keywords:* IoT, WSN, Energy Efficiency, Clustering Algorithms, NS-3.
-    * *GitHub Repository:* [View Repo](https://github.com/SaketKr-45/Energy-Efficient-Protocols-for-IoT-Devic.git)
-
-* 📄 **AI-Enhanced Routing Algorithms for IoT-Driven Smart Transportation**
-    * *Description:* Researched and analyzed AI-powered routing algorithms (ML, Deep Learning, Reinforcement Learning) for dynamic, real-time optimization in smart transportation systems to improve traffic flow and fuel efficiency.
-    * *Keywords:* AI, Smart Transportation, IoT, Machine Learning, Routing Algorithms.
-    * *GitHub Repository:* [View Repo](https://github.com/SaketKr-45/AI-Enhanced-Routing-Algorithms-for-IoT-Driven-Smart-Transportation.git)
-
-* 📄 **Energy Aware: Decentralised Aggregation Mechanisms in Federated Learning**
-    * *Description:* Explored decentralized aggregation mechanisms in Federated Learning with a focus on energy efficiency, aiming to enhance privacy, scalability, and robustness by removing central server reliance.
-    * *Keywords:* Federated Learning, Decentralized Systems, Energy Efficiency, Peer-to-Peer Learning, Gossip Protocols.
-    * *GitHub Repository:* [View Repo](https://github.com/SaketKr-45/Energy-Aware-Decentralised-Aggregation-Mechanisms-in-Federated-Learning.git)
+- Data Structures & Algorithms (DSA)
+- Operating Systems (OS)
+- Computer Networks (CN)
+- Database Management Systems (DBMS)
+- Object-Oriented Programming (OOP)
+- Software Development Life Cycle (SDLC)
+- Computer Organization & Architecture
 
 ---
 
-## ✨ Just a Little Fun!
+## 📂 Featured Projects
 
-<details>
-<summary><strong>🤫 Click to see a secret message load...</strong></summary>
+### 📰 [Fake News Detection Using Machine Learning](https://github.com/SaketKr-45/Fake-News-Detection-ML)
+Classifies news as real or fake using TF-IDF and six machine learning models. Achieved **91.6% accuracy** with Logistic Regression and evaluated results using precision, recall, and F1-score.  
+**Keywords:** ML, NLP, TF-IDF, Logistic Regression, SVM
 
-<br>
+### 🚗 [AI-Enhanced Routing Algorithms for Smart Transportation](https://github.com/SaketKr-45/AI-Enhanced-Routing-Algorithms-for-IoT-Driven-Smart-Transportation.git)  
+Analyzed and compared AI-powered routing strategies (ML, DL, RL) for smart transportation optimization.  
+**Keywords:** AI, IoT, Reinforcement Learning, Traffic Optimization
 
-**Loading Profile...**
-```
-[          ] 0%
-```
+### 🌱 [Energy-Efficient Protocols for IoT Devices](https://github.com/SaketKr-45/Energy-Efficient-Protocols-for-IoT-Devic.git)  
+Explored LEACH/DEEC-based routing protocols in Wireless Sensor Networks for energy optimization using NS-3.  
+**Keywords:** IoT, WSN, Energy Efficiency, NS-3
 
-<details>
-<summary><strong>Still loading...</strong> (Click to reveal next step)</summary>
+### 🔐 [Energy-Aware Federated Learning (Decentralized)](https://github.com/SaketKr-45/Energy-Aware-Decentralised-Aggregation-Mechanisms-in-Federated-Learning.git)  
+Studied decentralized FL architectures with gossip protocols to enhance privacy and energy conservation.  
+**Keywords:** Federated Learning, P2P, Gossip, Decentralization
 
-**Loading Profile...**
-```
-[███       ] 30%
-```
+---
 
-<details>
-<summary><strong>Almost there...</strong> (Click to reveal next step)</summary>
+## 🏢 Experience
 
-**Loading Profile...**
-```
-[██████    ] 60%
-```
-
-<details>
-<summary><strong>And... Done!</strong> (Click to reveal final message)</summary>
-
-**Profile Loaded!**
-```
-[██████████] 100%
-```
-Thanks for your patience! 😄
-Enjoy the profile!!
-</details> </details> </details> </details> </details> ---
-
-## 🛠️ Experience
-
-**Intern - Cybersecurity @ Zscaler** (Virtual | Jan 2025 - Mar 2025)
-* Gained hands-on experience in cybersecurity principles and cloud security technologies.
-* Assisted in threat analysis, vulnerability identification, and network security operations.
-* Worked with web security, firewalls, and zero-trust architecture concepts.
-* Explored cybersecurity frameworks and enterprise-level security solutions.
+### 🛡️ **Cybersecurity Intern @ Zscaler**  
+*Jan 2025 – Mar 2025 | Virtual*  
+- Worked on cloud security, threat modeling & vulnerability analysis  
+- Gained experience in zero-trust architecture and enterprise-grade firewalls  
+- Explored threat detection tools and security best practices
 
 ---
 
 ## 🎓 Education
 
-**Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, Odisha**
-* Bachelor of Technology (B.Tech), Computer Science & Engineering
-* *Expected Graduation:* 2026
-* *Current CGPA:* 8.58
+**🎓 Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar**  
+Bachelor of Technology (B.Tech) in Computer Science & Engineering  
+*2022 – 2026* | **CGPA:** 8.72
 
 ---
 
-## 🔗 Connect with Me
-
-Let's connect and collaborate!
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/saket-kumar-050b27274" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/SaketKr-45" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/SaketKr-45" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/SaketKr45/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
   <a href="mailto:saketkumar0883@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  Have a great day! ✨
-</p>
+<p align="center">Thanks for visiting! 🙌 Keep building, keep learning!</p>
